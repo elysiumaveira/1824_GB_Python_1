@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c94f62ce-a0ed-45ae-a722-a3f773caccf0" name="Changes" comment="created a third task">
+    <list default="true" id="71449d14-9d3c-4b88-b231-a00f220ba83b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Semenenya_Vladislav_dz_2/task_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.task_2_2">
+  <component name="RunManager" selected="Python.task_2_4">
     <configuration name="aksfjaskfls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,10 +147,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_2_2" />
         <item itemvalue="Python.task_2_4" />
-        <item itemvalue="Python.task_2_1" />
         <item itemvalue="Python.task_2_3" />
+        <item itemvalue="Python.task_2_2" />
+        <item itemvalue="Python.task_2_1" />
         <item itemvalue="Python.aksfjaskfls" />
       </list>
     </recent_temporary>
