@@ -25,7 +25,7 @@ def num_translate(number):
     }
 
     for key, value in numbers_dict.items():
-        if key == number.lower():
+        if key == number:
             return value
 
 
