@@ -55,6 +55,6 @@ def currency_rates(code) -> float:
 
             return float(f'{digit[0]}.{digit[1]}')
 
-
-currency = input('Введите валюту: ')
-print(currency_rates(currency))
+if __name__ == '__main__':
+    currency = input('Введите валюту: ')
+    print(currency_rates(currency))
