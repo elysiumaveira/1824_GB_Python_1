@@ -1,0 +1,51 @@
+01
+(venv) PS D:\1824_GB_Python_1> pip show requests
+Name: requests
+Version: 2.26.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Author-email: me@kennethreitz.org
+License: Apache 2.0
+Location: d:\1824_gb_python_1\venv\lib\site-packages
+Requires: idna, urllib3, charset-normalizer, certifi
+Required-by:
+
+02
+(venv) PS D:\1824_GB_Python_1> pip show pillow
+Name: Pillow
+Version: 8.3.2
+Summary: Python Imaging Library (Fork)
+Home-page: https://python-pillow.org
+Author: Alex Clark (PIL Fork Author)
+Author-email: aclark@python-pillow.org
+License: HPND
+Location: d:\1824_gb_python_1\venv\lib\site-packages
+Requires:
+Required-by:
+
+03
+(venv) PS D:\1824_GB_Python_1> deactivate
+PS D:\1824_GB_Python_1> pip show requests
+Name: requests
+Version: 2.26.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Author-email: me@kennethreitz.org
+License: Apache 2.0
+Location: d:\1824_gb_python_1\venv\lib\site-packages
+Requires: urllib3, idna, charset-normalizer, certifi
+Required-by:
+
+PS D:\1824_GB_Python_1> pip show pillow
+Name: Pillow
+Version: 8.3.2
+Summary: Python Imaging Library (Fork)
+Home-page: https://python-pillow.org
+Author: Alex Clark (PIL Fork Author)
+Author-email: aclark@python-pillow.org
+License: HPND
+Location: d:\1824_gb_python_1\venv\lib\site-packages
+Requires:
+Required-by:
